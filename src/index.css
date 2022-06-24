@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-image: url(/public/background.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Open Sans', sans-serif;
+  height: 100vh;
+}
